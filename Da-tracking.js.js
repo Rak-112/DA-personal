@@ -315,7 +315,7 @@ if (refFrom != '' && refFrom != null) {
 
     }
 }
-console.log('JET');
+console.log('let');
 //to get GCLID
 /*var gclid = 'Not-Defined';
 try {
