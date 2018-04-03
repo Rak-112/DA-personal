@@ -315,7 +315,7 @@ if (refFrom != '' && refFrom != null) {
 
     }
 }
-
+console.log('GIT');
 //to get GCLID
 /*var gclid = 'Not-Defined';
 try {
